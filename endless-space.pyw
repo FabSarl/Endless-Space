@@ -87,7 +87,7 @@ class Application(object):
         while 1:
             self.clock.tick(FPS)
             # CHEAT
-            self.cheat()
+            # self.cheat()
             # - Events handler - #
             for event in pygame.event.get():
                 # Pause menu
