@@ -4,7 +4,7 @@
 ####################################
 # Shoot'em up : Endless Space      #
 # Version : Alpha 0.3              #
-# Author : Fab-X7                  #
+# Author : Fab Sarl                #
 # Licence : MIT                    #
 ####################################
 
